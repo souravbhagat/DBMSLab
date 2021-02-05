@@ -1,2 +1,2 @@
 DBMS Lab Assignment 1
-ER Diagram using University Database
+       1. ER Diagram using University Database
