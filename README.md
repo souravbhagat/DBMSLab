@@ -5,5 +5,6 @@ DBMS Lab Assignment-1
 || DBMS Lab Assignment-3
 || DBMS Lab Assignment-4
 || DBMS Lab Assignment-5
+|| DBMS Lab Assignment-6
 ->Name - Sourav Bhagat
 ->Reg_No - 19BCS103
